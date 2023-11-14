@@ -2,19 +2,20 @@
 
 
 <h1 align="center">Hi 👋, I'm Ritik Tiwari</h1>
-<h3 align="center">A passionate Android Developer from India  </h3>
+<h2 align="center"> I am currently pursuing B.Tech. from IIT JODHPUR in the CSE. </h2>
+<h3 align="center">A passionate Mobile Developer from India  </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
  
 
-- 🌱 I’m currently learning **React Native, DevOps.**
+- 🌱 I’m currently learning **React Native, DevOps, Django and NodeJS.**
 
 - 👨‍💻 All of my projects are available at [https://cheery-vacherin-711af7.netlify.app/](https://cheery-vacherin-711af7.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,XML,FIGMA,JAVA**
+- 💬 Ask me about **Dart,NodeJS,Django,HTML,CSS,XML,FIGMA,JAVA.**
 
-- 📫 How to reach me **tiwari.26@iitj.ac.in**
+- 📫 How to reach me **rt936649@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1a5IrwFIAOijXc7nOTEVVgo3ZJdPmmc3n/view](https://drive.google.com/file/d/1a5IrwFIAOijXc7nOTEVVgo3ZJdPmmc3n/view)
 
