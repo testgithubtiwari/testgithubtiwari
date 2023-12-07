@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native, DevOps, Django and NodeJS.**
 
-- 👨‍💻 All of my projects are available at [https://cheery-vacherin-711af7.netlify.app/](https://cheery-vacherin-711af7.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rt-portfolio.vercel.app/)
 
 - 💬 Ask me about **Dart,NodeJS,Django,HTML,CSS,XML,FIGMA,JAVA.**
 
