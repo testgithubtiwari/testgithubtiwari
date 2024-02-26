@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=testgithubtiwari&show_icons=true&locale=en" alt="testgithubtiwari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=testgithubtiwari&" alt="testgithubtiwari" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=testgithubtiwari"/></a>
