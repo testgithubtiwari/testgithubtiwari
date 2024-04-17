@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-* 👂 My name is Ritik tiwari
+* 👂 My name is Ritik Tiwari
 * 🔭 I’m currently working on React Native, Flutter, DevOps, Django and NodeJS.
 * 📫 How to reach me: Email: tiwari.26@iitj.ac.in
 * ❤️ I love to hear from you regarding any problem related to development.
