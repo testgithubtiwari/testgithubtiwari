@@ -1,23 +1,14 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ritik Tiwari</h1>
-<h2 align="center"> I am currently pursuing B.Tech. from IIT JODHPUR in the CSE. </h2>
-<h3 align="center">A passionate Mobile Developer from India  </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
- 
-
-- 🌱 I’m currently learning **React Native, DevOps, Django and NodeJS.**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://rt-portfolio.vercel.app/)
-
-- 💬 Ask me about **Dart,NodeJS,Django,HTML,CSS,XML,FIGMA,JAVA.**
-
-- 📫 How to reach me **rt936649@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a5IrwFIAOijXc7nOTEVVgo3ZJdPmmc3n/view](https://drive.google.com/file/d/1a5IrwFIAOijXc7nOTEVVgo3ZJdPmmc3n/view)
+### Hi there 👋
+* 👂 My name is Ritik tiwari
+* 🔭 I’m currently working on React Native, Flutter, DevOps, Django and NodeJS.
+* 📫 How to reach me: Email: tiwari.26@iitj.ac.in
+* ❤️ I love to hear from you regarding any problem related to development.
+* 👨‍💻 All of my projects are available at [Portfolio](https://rt-portfolio.vercel.app/)
+* 💬 Ask me about **Dart,NodeJS,Django,HTML,CSS,XML,FIGMA,JAVA.**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1a5IrwFIAOijXc7nOTEVVgo3ZJdPmmc3n/view](https://drive.google.com/file/d/14I7QdIJKFdVPT6edPV91SnAUxHoTxita/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
