@@ -8,7 +8,7 @@
 * ❤️ I love to hear from you regarding any problem related to development.
 * 👨‍💻 All of my projects are available at [Portfolio](https://rt-portfolio.vercel.app/)
 * 💬 Ask me about **Dart,NodeJS,Django,HTML,CSS,XML,FIGMA,JAVA.**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a5IrwFIAOijXc7nOTEVVgo3ZJdPmmc3n/view](https://drive.google.com/file/d/14I7QdIJKFdVPT6edPV91SnAUxHoTxita/view?usp=sharing)
+* 📄 Know about my experiences [https://drive.google.com/file/d/1a5IrwFIAOijXc7nOTEVVgo3ZJdPmmc3n/view](https://drive.google.com/file/d/14I7QdIJKFdVPT6edPV91SnAUxHoTxita/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
