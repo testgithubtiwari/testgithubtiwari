@@ -31,3 +31,9 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=testgithubtiwari&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=testgithubtiwari&icon=6&color=7)](https://visitcount.itsvg.in)
