@@ -1,6 +1,3 @@
-
-
-
 ### Hi there 👋
 * 👂 My name is Ritik Tiwari
 * 🔭 I’m currently working on React Native, Flutter, DevOps, Django and NodeJS.
